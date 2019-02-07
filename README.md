@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-#Simple vanilla javascript Accordion with 7-Layer Ice Cream Markup and Nickabockaglory Styles
+# Simple vanilla javascript Accordion with 7-Layer Ice Cream Markup and Nickabockaglory Styles
 
 ## 7-Layer Ice Cream Markup
 ```
