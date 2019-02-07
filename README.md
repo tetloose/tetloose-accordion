@@ -1,8 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-#Simple vanilla javascript Accordion
+#Simple vanilla javascript Accordion with 7-Layer Ice Cream Markup and Nickabockaglory Styles
 
-## Markup
+## 7-Layer Ice Cream Markup
 ```
 <div class="faq js-faq">
   <div class="faq__item js-faqItem">
@@ -14,7 +14,7 @@
 </div>
 ```
 
-## Styles
+## Nickabockaglory Styles
 ```
 *,
 *::before,
@@ -82,7 +82,7 @@
 }
 ```
 
-## JS
+## Vanilla JS
 ```
 // Define ui vars
 const faq = document.querySelector('.js-faq'),
