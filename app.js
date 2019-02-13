@@ -1,6 +1,6 @@
 // Define ui vars
 const faq = document.querySelector('.js-faq'),
-      faqItems = document.querySelectorAll('.js-faqItem');
+faqItems = document.querySelectorAll('.js-faqItem');
 
 // 1. Load all event listeners as a function
 loadEventListners();
